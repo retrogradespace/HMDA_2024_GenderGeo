@@ -1,0 +1,13 @@
+# Local environment and OS artifacts
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.mplcache/
+
+# Local data and outputs
+output/
+data/shapefiles/
+*.csv.gz
+year_2024.csv
